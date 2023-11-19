@@ -1,0 +1,22 @@
+{
+    "name": "ManGo Games",
+    "short_name": "ManGo",
+    "description": "¡Explora juegos escalofriantes para Halloween! Aventuras, terror y diversión te esperan en nuestra página de videojuegos de Halloween.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007BFF",
+    "icons": [
+        {
+            "src": "./imgs/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./imgs/icon-192x192.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
+  
