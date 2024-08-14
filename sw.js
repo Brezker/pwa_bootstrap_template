@@ -6,17 +6,7 @@ const CACHE_URLS = [
   'manifest.json',
   'sw.js',
   'index.html',
-  'imgs/halloween01.jpg',
-  'imgs/halloween02.jpg',
-  'imgs/halloween03.jpg',
-  'imgs/halloween04.jpg',
-  'imgs/halloween05.jpg',
-  'imgs/halloween06.jpg',
-  'imgs/halloween07.jpg',
-  'imgs/halloween08.jpg',
-  'imgs/icon-192x192.png',
-  'imgs/icon-512x512.png',
-  'imgs/icon-2048x2048.png',
+  'imgs/*',
 ];
 
 // Install

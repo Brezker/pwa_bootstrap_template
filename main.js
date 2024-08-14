@@ -1,11 +1,11 @@
 // Config sw
 
-alert('Hola')
+alert('Install PWA?')
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker
     .register('sw.js')
     .then(function(registration){
-        // el sw se ejecuto correctamente
+        // sw executed correctly
         console.log('Service worker registrado con exito', registration);
     })
     .catch(function(error){

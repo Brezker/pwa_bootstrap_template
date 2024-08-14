@@ -1,7 +1,7 @@
 {
     "name": "ManGo Games",
     "short_name": "ManGo",
-    "description": "¡Explora juegos escalofriantes para Halloween! Aventuras, terror y diversión te esperan en nuestra página de videojuegos de Halloween.",
+    "description": "Explore scarry videogames this Halloween! Adventures, horror and fun will wake you up on our Halloween videogames page.",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
